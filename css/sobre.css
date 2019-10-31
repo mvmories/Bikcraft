@@ -1,0 +1,50 @@
+.interna-sobre{
+	background: url("../img/bg-sobre.jpg") no-repeat center;
+	background-size: cover;
+}
+
+.missao-sobre{
+	padding-top: 60px;
+}
+
+.foto-equipa{
+	padding-top: 20px;
+}
+
+.missao-sobre p{
+	font-size:18px;
+	line-height: 25px;
+	margin-bottom: 1em;
+	padding-right: 60px;
+}
+
+.missao-sobre ul li{
+	font-size:18px;
+	line-height: 30px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+.subtitulo-interno{
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 30px;
+	letter-spacing: .1em;
+	color: #000;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	text-align: left;
+}
+
+.subtitulo-interno:after{
+	color: #000;
+	content: "";
+	display: block;
+	width: 60px;
+	height: 3px;
+	background: #000;
+	margin: 8px 0;
+}
+
+.endereco-bikcraft{
+	padding-top: 20px;
+}
